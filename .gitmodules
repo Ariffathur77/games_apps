@@ -1,3 +1,6 @@
 [submodule "ludo_game_flutter"]
 	path = ludo_game_flutter
 	url = https://github.com/arpit24sahu/ludo_game_flutter.git
+[submodule "thedeck"]
+	path = thedeck
+	url = https://github.com/xajik/thedeck.git
