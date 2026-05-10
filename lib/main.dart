@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+//! Ludo Game
 import 'package:ludo_game/main.dart' as ludo;
 import 'package:ludo_game/injection.dart';
+//! Domino Game
 
 void main() {
   runApp(const MyApp());

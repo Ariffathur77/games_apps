@@ -1,6 +1,3 @@
 [submodule "ludo_game_flutter"]
 	path = ludo_game_flutter
 	url = https://github.com/arpit24sahu/ludo_game_flutter.git
-[submodule "domino_game_flutter"]
-	path = domino_game_flutter
-	url = https://github.com/Assem9/flutter_domino_game.git
