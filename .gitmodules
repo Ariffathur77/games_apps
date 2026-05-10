@@ -1,0 +1,3 @@
+[submodule "ludo_game_flutter"]
+	path = ludo_game_flutter
+	url = https://github.com/arpit24sahu/ludo_game_flutter.git
